@@ -1,0 +1,11 @@
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.exe
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.deps.json
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.runtimeconfig.json
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.dll
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.pdb
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.dll
+C:\Users\james\source\cSharpData_Algorithms\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.pdb
